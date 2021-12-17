@@ -2,3 +2,4 @@
 node-js-server/node_modules
 angular-10-client/node_modules
 .idea
+package-lock.json
